@@ -52,5 +52,5 @@
 ```
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:111827,100:0F172A&text=Thanks%20for%20visiting!%20👋&fontColor=E5E7EB&fontSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:111827,100:0F172A&fontColor=E5E7EB&fontSize=22" />
 
