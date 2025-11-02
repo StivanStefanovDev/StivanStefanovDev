@@ -10,7 +10,6 @@
 
 ### 📊 Quick impact
 
-- Delivered SiteCheck features adopted by **100+ garages**, contributing to higher VOSA ratings across **20+** sites.  
 - Cut query/load times on high-traffic systems (1M+ rows) by up to **40%**, improving reliability and UX.  
 - Built and hardened **REST APIs** (Node/Express), integrated **AWS S3** for uploads, and set up **GitHub Actions** for continuous delivery.  
 - Freelance record: **100% on-time, on-budget** delivery across custom apps (booking, e-commerce, quoting, stock mgmt).
