@@ -49,3 +49,8 @@
   { "name": "Data", "items": ["PostgreSQL", "MySQL", "MongoDB"] },
   { "name": "Cloud/DevOps", "items": ["AWS (S3, EC2, Amplify)", "GitHub Actions", "Docker"] }
 ]
+```
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:111827,100:0F172A&text=Thanks%20for%20visiting!%20👋&fontColor=E5E7EB&fontSize=22" />
+
