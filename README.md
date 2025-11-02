@@ -3,7 +3,7 @@
 
 # Hello, it's Stivan
 
-> I help teams **ship dependable web apps** and **make releases faster** by tightening data models, tuning queries, and automating delivery.
+> I help teams **ship dependable web apps** and **make releases faster** by tightening data models, tuning queries, and automating delivery.  
 > Recently: features used by **100+ UK garages**, boosted DB/API performance, and rolled out **CI/CD** for safer deploys.
 
 ---
@@ -40,17 +40,16 @@
 
 ---
 
-### 🧾 Stack (as data)
+### 🧾 Technical Breakdown
 
-```json
-[
-  { "name": "Languages", "items": ["TypeScript", "JavaScript", "Python", "C#", "SQL"] },
-  { "name": "Frameworks", "items": ["Angular", "React", "Node.js", "Express", "Flask"] },
-  { "name": "Data", "items": ["PostgreSQL", "MySQL", "MongoDB"] },
-  { "name": "Cloud/DevOps", "items": ["AWS (S3, EC2, Amplify)", "GitHub Actions", "Docker"] }
-]
+#### 🔹 Full-Stack Focus Chart
+<div align="center">
+
+```mermaid
+pie showData
+title Skill Distribution
+"Frontend (Angular, React, TypeScript)" : 40
+"Backend (Node.js, Express, Flask, C#)" : 35
+"Database (PostgreSQL, MySQL, MongoDB)" : 15
+"Cloud & DevOps (AWS, CI/CD, Docker)" : 10
 ```
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:111827,100:0F172A&fontColor=E5E7EB&fontSize=22" />
-
