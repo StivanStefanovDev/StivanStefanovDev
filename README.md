@@ -53,3 +53,51 @@ title Skill Distribution
 "Database (PostgreSQL, MySQL, MongoDB)" : 15
 "Cloud & DevOps (AWS, CI/CD, Docker)" : 10
 ```
+
+---
+
+## 📚 Current Focus
+
+🚗 **Motor Trade Technologies**  
+Enhancing the SiteCheck platform — developing **incident tracking**, **risk scoring**, and performance-focused backend improvements.
+
+⚙️ **CI/CD Automation**  
+Creating reusable **GitHub Actions** pipelines for faster, safer deployments across environments.
+
+🐘 **PostgreSQL Optimization**  
+Tuning queries and refining schema design to handle **scalable, data-heavy** applications with ease.
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/stivan-stefanov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="https://github.com/StivansProfile" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:stivanstf55@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  <a href="https://dev.to/" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="35"/>
+  </a>
+</p>
+
+---
+
+## 🧾 Employer?
+
+> If you’re looking for a developer who builds **efficient systems**, **clean APIs**, and **scalable web apps**,  
+> let’s talk — I deliver measurable impact, not just code.
+
+<p align="center">
+  <a href="https://github.com/StivansProfile/StivansProfile/raw/main/Stivan_Stefanov_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20Resume-4F46E5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="35"/>
+  </a>
+</p>
+
+
+<!-- Footer --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:111827,100:0F172A&fontColor=E5E7EB&fontSize=20" />
