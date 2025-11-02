@@ -1,14 +1,52 @@
-👋 Hey, I'm Stivan Stefanov
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:111827&text=Stivan%20Stefanov&fontColor=E5E7EB&fontSize=42&animation=fadeIn" />
 
-I help companies build reliable, high-performance web applications that scale efficiently and drive measurable results.
-My work focuses on improving system performance, automating delivery pipelines, and turning complex requirements into maintainable solutions that directly support business goals.
+# Hello, it's Stivan
 
-Currently contributing at Motor Trade Technologies, where I’ve:
+> I help teams **ship dependable web apps** and **make releases faster** by tightening data models, tuning queries, and automating delivery.
+> Recently: features used by **100+ UK garages**, boosted DB/API performance, and rolled out **CI/CD** for safer deploys.
 
-Delivered new features used by 100+ garages across the UK
+---
 
-Improved database efficiency and boosted API reliability
+### 📊 Quick impact
 
-Streamlined CI/CD workflows, enabling faster and safer releases
+- Delivered SiteCheck features adopted by **100+ garages**, contributing to higher VOSA ratings across **20+** sites.  
+- Cut query/load times on high-traffic systems (1M+ rows) by up to **40%**, improving reliability and UX.  
+- Built and hardened **REST APIs** (Node/Express), integrated **AWS S3** for uploads, and set up **GitHub Actions** for continuous delivery.  
+- Freelance record: **100% on-time, on-budget** delivery across custom apps (booking, e-commerce, quoting, stock mgmt).
 
-I bring a blend of front-end precision (Angular, React, TypeScript) and backend robustness (Node.js, PostgreSQL, AWS) to every project — making development cycles shorter and deployments smoother.
+---
+
+### 🧰 Main skills
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-181717?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+</p>
+
+---
+
+### 🧾 Stack (as data)
+
+```json
+[
+  { "name": "Languages", "items": ["TypeScript", "JavaScript", "Python", "C#", "SQL"] },
+  { "name": "Frameworks", "items": ["Angular", "React", "Node.js", "Express", "Flask"] },
+  { "name": "Data", "items": ["PostgreSQL", "MySQL", "MongoDB"] },
+  { "name": "Cloud/DevOps", "items": ["AWS (S3, EC2, Amplify)", "GitHub Actions", "Docker"] }
+]
